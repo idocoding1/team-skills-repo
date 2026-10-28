@@ -1,0 +1,12 @@
+name: react-code-review
+version: 1.0.0
+scope: project
+project: El Al
+category: Frontend
+framework: React
+technology: TypeScript
+use_case: Code Review
+tags: [accessibility, hooks, performance, react, review]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version

@@ -1,0 +1,10 @@
+{
+  "skill": "react-code-review",
+  "version": "1.0.0",
+  "content_hash": "sha256:1a1acf393bf67ed4f6aa6f201b045157f6ddd71cfd5aa5bc9994508b424778c8",
+  "submission_id": 1,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-10-27T13:15:51.414002+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}
