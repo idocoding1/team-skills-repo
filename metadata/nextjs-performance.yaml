@@ -1,0 +1,12 @@
+name: nextjs-performance
+version: 1.0.0
+scope: project
+project: El Al
+category: Frontend
+framework: Next.js
+technology: TypeScript
+use_case: Optimization
+tags: [bundle-size, caching, nextjs, web-vitals]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version

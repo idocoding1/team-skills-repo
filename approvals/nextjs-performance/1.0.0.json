@@ -1,0 +1,10 @@
+{
+  "skill": "nextjs-performance",
+  "version": "1.0.0",
+  "content_hash": "sha256:d50665c9c4f32367ca124f80afc24bc89af4b4c3c8af9b40401af5c2de0dd3ff",
+  "submission_id": 2,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-10-29T07:23:51.438485+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}
