@@ -1,0 +1,12 @@
+name: fastapi-best-practices
+version: 1.0.0
+scope: project
+project: Applied
+category: Backend
+framework: FastAPI
+technology: Python
+use_case: Development
+tags: [api, async, fastapi, pydantic, python]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version

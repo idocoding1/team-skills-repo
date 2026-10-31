@@ -1,0 +1,10 @@
+{
+  "skill": "fastapi-best-practices",
+  "version": "1.0.0",
+  "content_hash": "sha256:222a0b091c0085f86e6e076fed2467d80a8c34f85d38d1b803e1a6261011c3c1",
+  "submission_id": 3,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-10-30T12:42:51.605136+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}
