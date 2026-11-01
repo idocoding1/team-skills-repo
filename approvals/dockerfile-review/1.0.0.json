@@ -1,0 +1,10 @@
+{
+  "skill": "dockerfile-review",
+  "version": "1.0.0",
+  "content_hash": "sha256:78e90d6fc0c3b73cfe2f7b988d6e2a7a8e87779c67c2c4ff4e79ca5c8f238993",
+  "submission_id": 4,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-11-01T07:48:51.323466+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}

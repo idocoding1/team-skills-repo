@@ -1,0 +1,12 @@
+name: dockerfile-review
+version: 1.0.0
+scope: project
+project: Isortel
+category: DevOps
+framework: Docker
+technology: Docker
+use_case: Code Review
+tags: [containers, docker, image-size, security]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version
