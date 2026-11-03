@@ -1,0 +1,11 @@
+name: security-audit
+version: 1.0.0
+scope: global
+category: Security
+framework: General
+technology: Multi-language
+use_case: Security
+tags: [appsec, audit, owasp, vulnerabilities]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version

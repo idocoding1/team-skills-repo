@@ -1,0 +1,10 @@
+{
+  "skill": "security-audit",
+  "version": "1.0.0",
+  "content_hash": "sha256:f3c55bdc5fe608e2abd7f028829d9af6baf1723f19c324f198968f47bc1225a3",
+  "submission_id": 5,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-11-02T12:32:51.649078+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}
