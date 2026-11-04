@@ -1,0 +1,11 @@
+name: git-commit-message
+version: 1.0.0
+scope: global
+category: General
+framework: Git
+technology: Git
+use_case: Productivity
+tags: [conventional-commits, git, workflow]
+clients: [claude, codex]
+owner: alice
+changelog: Initial version

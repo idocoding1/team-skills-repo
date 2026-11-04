@@ -1,0 +1,10 @@
+{
+  "skill": "git-commit-message",
+  "version": "1.0.0",
+  "content_hash": "sha256:aaf32fb73d8159afa6e580106a4828a6e716626569fbb8da49b66c8c18c2a638",
+  "submission_id": 6,
+  "submitted_by": "alice",
+  "approved_by": "bob",
+  "approved_at": "2026-11-04T07:58:51.732948+00:00",
+  "comment": "Seeded demo skill: reviewed and approved."
+}
