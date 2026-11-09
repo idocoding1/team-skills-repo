@@ -1,0 +1,12 @@
+name: sql-style-guide
+version: 1.0.0
+scope: project
+project: Econergy
+category: Data
+framework: General
+technology: SQL
+use_case: Code Review
+tags: [database, sql, style]
+clients: [claude, codex]
+owner: alice
+changelog: Initial
