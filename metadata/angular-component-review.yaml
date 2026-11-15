@@ -1,0 +1,11 @@
+name: angular-component-review
+version: 1.0.0
+scope: project
+project: Applied
+category: Data
+framework: FastAPI
+technology: Git
+use_case: Code Review
+tags: []
+clients: [claude, codex]
+owner: bob
