@@ -1,0 +1,11 @@
+name: angular-component-review
+version: 1.0.0
+scope: project
+project: El Al
+category: Frontend
+framework: Angular
+technology: Typescript
+use_case: Code Review
+tags: []
+clients: [claude, codex]
+owner: bob
