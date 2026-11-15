@@ -1,0 +1,11 @@
+name: angular-unit-tests
+version: 1.0.0
+scope: project
+project: El Al
+category: Frontend
+framework: Angular
+technology: TypeScript
+use_case: Development
+tags: []
+clients: [claude, codex]
+owner: idocoding1
