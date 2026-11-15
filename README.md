@@ -12,3 +12,11 @@ approvals/<name>/<v>.json   one approval record per published version
 
 `scope` in `metadata/<name>.yaml` is `global` (shown to every team) or `project`
 (with `project: <name>`). See the marketplace repo's `docs/metadata-format.md`.
+
+## Team
+
+`team.json` lists the team: `leads` review and approve submissions, `members` submit them.
+Team Skills Hub reads it to decide who is a Team Lead. `.github/CODEOWNERS` requests a lead's
+review on every pull request; keep both in sync. `allow_self_review: true` is only for a
+one-person setup; set it to `false` once there is a second lead.
+
