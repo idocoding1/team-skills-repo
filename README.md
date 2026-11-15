@@ -22,9 +22,7 @@ lead's own submissions need a second lead.
 
 ## Branch protection
 
-`.github/rulesets/protect-main.json` protects `main`: changes only through pull requests, one
-approval from a code owner (a Team Lead), squash merges only, no force pushes or deletion, and no
-bypass, also for the repository owner. Apply it once: **Settings → Rules → Rulesets → New ruleset →
-Import a ruleset**, and pick the file. `require_last_push_approval` stays off on purpose: Team Skills
-Hub pushes the approval record to the PR branch and then approves as the same Team Lead.
-
+`.github/rulesets/protect-main.json` protects `main`: changes only through pull requests, squash
+merges only, no force pushes or deletion. It requires **no** GitHub approvals: Team Skills Hub decides
+who may publish (only Team Leads see Approve), and GitHub cannot count a lead's approval of their own
+submission. Apply it under **Settings → Rules → Rulesets**.
