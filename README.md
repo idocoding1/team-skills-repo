@@ -17,6 +17,6 @@ approvals/<name>/<v>.json   one approval record per published version
 
 `team.json` lists the team: `leads` review and approve submissions, `members` submit them.
 Team Skills Hub reads it to decide who is a Team Lead. `.github/CODEOWNERS` requests a lead's
-review on every pull request; keep both in sync. `allow_self_review: true` is only for a
-one-person setup; set it to `false` once there is a second lead.
+review on every pull request; keep both in sync. Nobody can approve their own submission, so a
+lead's own submissions need a second lead.
 
