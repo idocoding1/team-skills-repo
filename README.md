@@ -17,14 +17,14 @@ approvals/<name>/<v>.json   one approval record per published version
 
 `team.json` lists the team: `leads` review and approve submissions, `members` submit them.
 Team Skills Hub reads it to decide who is a Team Lead. `.github/CODEOWNERS` requests a lead's
-review on every pull request; keep both in sync. Nobody can approve their own submission, so a
-lead's own submissions need a second lead.
+review on every pull request; keep both in sync. Team Leads can publish their own submissions.
 
 ## Branch protection
 
 `.github/rulesets/protect-main.json` protects `main`: changes only through pull requests, one
-approval from a code owner (a Team Lead), squash merges only, no force pushes or deletion, and no
-bypass, also for the repository owner. Apply it once: **Settings → Rules → Rulesets → New ruleset →
+approval from a code owner (a Team Lead), squash merges only, no force pushes or deletion. The
+repository admin may bypass the approval **for pull requests only**, so a lead (the owner) can publish
+their own submission: GitHub never lets a PR's author approve it. Apply it once: **Settings → Rules → Rulesets → New ruleset →
 Import a ruleset**, and pick the file. `require_last_push_approval` stays off on purpose: Team Skills
 Hub pushes the approval record to the PR branch and then approves as the same Team Lead.
 
