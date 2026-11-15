@@ -1,0 +1,11 @@
+name: ngrx-store-review
+version: 1.0.0
+scope: project
+project: El Al
+category: DevOps
+framework: React
+technology: SQL
+use_case: Security
+tags: []
+clients: [claude, codex]
+owner: idocoding1
