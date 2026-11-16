@@ -1,0 +1,10 @@
+name: scss-style-review
+version: 1.0.0
+scope: global
+category: Frontend
+framework: Angular
+technology: scss
+use_case: Development
+tags: []
+clients: [claude, codex]
+owner: idocoding1
