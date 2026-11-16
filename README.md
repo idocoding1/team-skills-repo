@@ -15,7 +15,8 @@ approvals/<name>/<v>.json   one approval record per published version
 
 ## Team
 
-`team.json` lists the team: `leads` review and approve submissions, `members` submit them.
+`team.json` lists the team: `leads` review and approve submissions, `members` submit them, and
+`projects` are the customer projects a skill can belong to (`name`, optional `description`).
 Team Skills Hub reads it to decide who is a Team Lead. `.github/CODEOWNERS` requests a lead's
 review on every pull request; keep both in sync. Team Leads can publish their own submissions.
 
