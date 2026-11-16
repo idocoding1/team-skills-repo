@@ -1,0 +1,11 @@
+name: ngrx-store-review
+version: 1.0.0
+scope: project
+project: Applied
+category: General
+framework: Git
+technology: Docker
+use_case: Development
+tags: []
+clients: [claude, codex]
+owner: idocoding1
