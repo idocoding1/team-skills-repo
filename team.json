@@ -1,13 +1,35 @@
 {
-  "leads": ["idocoding1"],
-  "members": ["TomerBaranes"],
+  "leads": [
+    "idocoding1",
+    "TomerBaranes"
+  ],
+  "members": [],
   "projects": [
-    { "name": "El Al", "description": "El Al Airlines website" },
-    { "name": "Applied" },
-    { "name": "Isortel" },
-    { "name": "Petah Tikva Municipality", "description": "Municipal CRM on Microsoft Dynamics 365" },
-    { "name": "Ashtrom Industries", "description": "CRM on Microsoft Dynamics 365" },
-    { "name": "A.L. Filter", "description": "Salesforce CRM" },
-    { "name": "Econergy", "description": "Data solutions" }
+    {
+      "name": "El Al",
+      "description": "El Al Airlines website"
+    },
+    {
+      "name": "Applied"
+    },
+    {
+      "name": "Isortel"
+    },
+    {
+      "name": "Petah Tikva Municipality",
+      "description": "Municipal CRM on Microsoft Dynamics 365"
+    },
+    {
+      "name": "Ashtrom Industries",
+      "description": "CRM on Microsoft Dynamics 365"
+    },
+    {
+      "name": "A.L. Filter",
+      "description": "Salesforce CRM"
+    },
+    {
+      "name": "Econergy",
+      "description": "Data solutions"
+    }
   ]
 }
