@@ -1,0 +1,10 @@
+name: angular-a11y-audit
+version: 1.0.0
+scope: global
+category: Frontend
+framework: React
+technology: TypeScript
+use_case: Development
+tags: []
+clients: [claude, codex]
+owner: idocoding1
