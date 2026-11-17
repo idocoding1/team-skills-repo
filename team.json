@@ -1,9 +1,13 @@
 {
   "leads": [
     "idocoding1",
-    "TomerBaranes"
+    "TomerBaranes",
+    "nagorath"
   ],
-  "members": [],
+  "members": [
+    "esvecation-boop",
+    "maayankaplan12"
+  ],
   "projects": [
     {
       "name": "El Al",
