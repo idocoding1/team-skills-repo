@@ -1,0 +1,12 @@
+name: release-announcement
+version: 1.0.0
+scope: project
+project: El Al
+category: Frontend
+framework: Git
+technology: Git
+use_case: Version Upload
+tags: []
+clients: [claude, codex]
+owner: TomerBaranes
+changelog: Used by the Team Leader to manage the release notes
